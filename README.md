@@ -83,7 +83,7 @@ This repository is the third pillar of a comprehensive Biotech Commercial Stack:
 * **Field Force Excellence:** Alert MSLs to specific clinical concerns trending within a local geographic cluster.
 
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
