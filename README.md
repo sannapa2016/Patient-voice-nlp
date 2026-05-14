@@ -1,16 +1,12 @@
-Here is the complete, high-impact **README.md** for your **Patient-Voice NLP** project. This version incorporates the technical fixes for the scientific models, the strategic business logic, and the "Master Suite" connections.
 
----
-
-# 🧬 Patient-Voice NLP
+#  Patient-Voice NLP
 
 ### *Bridging the "Diagnostic Odyssey" through Bio-Medical Sentiment & Unmet Need Extraction*
 
 `Patient-Voice NLP` is a specialized intelligence tool designed for Life Sciences Patient Advocacy and Medical Affairs teams. It utilizes **scispaCy** (specialized medical NLP) and **Transformer-based emotion models** to transform unstructured patient discourse into actionable strategic insights.
 
----
 
-## 🚀 The Strategic Objective
+##  The Strategic Objective
 
 Patients with rare diseases often spend 5–7 years in a "Diagnostic Odyssey." Traditional claims data (ICD-10) only captures the *transaction*; it misses the *human barrier*. This project extracts the lived experience to identify why patients are failing to access life-changing therapies.
 
@@ -20,9 +16,8 @@ Patients with rare diseases often spend 5–7 years in a "Diagnostic Odyssey." T
 * **Access Barrier Detection:** Automatically flags "Friction Points" such as insurance denials, travel distance to Centers of Excellence (CoE), and financial toxicity.
 * **Emotional Sentiment Mapping:** Categorizes community discourse into core emotional states (Fear, Anger, Sadness, Joy) to measure the real-world impact of a therapy.
 
----
 
-## 🛠️ Project Architecture
+## Project Architecture
 
 ```text
 patient-voice-nlp/
@@ -36,9 +31,8 @@ patient-voice-nlp/
 
 ```
 
----
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 This project requires specialized scientific models from the **Allen Institute for AI**. Follow these steps to ensure a "self-healing" installation of the medical dependencies.
 
@@ -56,9 +50,7 @@ pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/e
 
 ```
 
----
-
-## 🔍 Featured Module: Access Barrier Extractor
+##  Featured Module: Access Barrier Extractor
 
 The `need_extractor` module utilizes the scientific pipeline to scan for specific logistics and insurance friction points.
 
@@ -74,7 +66,6 @@ print(f"Detected Barriers: {barriers}")
 
 ```
 
----
 
 ## 🏛️ Part of the Life Sciences Executive Suite
 
@@ -84,15 +75,13 @@ This repository is the third pillar of a comprehensive Biotech Commercial Stack:
 2. **[Referral-Sense-AI]():** Identifying "Hidden" patients through NPI-level proxy claims and Haversine mapping.
 3. **[Patient-Voice-NLP]():** Understanding the human experience and removing barriers to therapy adoption.
 
----
 
-## 📊 Business Impact
+## Business Impact
 
 * **Patient Advocacy:** Proactively identify communities needing travel support or lodging vouchers.
 * **Market Access:** Quantify "Denial Rates" from social discourse to bolster negotiations with payers.
 * **Field Force Excellence:** Alert MSLs to specific clinical concerns trending within a local geographic cluster.
 
----
 
 ## 📄 License
 
