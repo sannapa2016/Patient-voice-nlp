@@ -66,14 +66,13 @@ print(f"Detected Barriers: {barriers}")
 
 ```
 
-
-## 🏛️ Part of the Life Sciences Executive Suite
+## Part of the Life Sciences Executive Suite
 
 This repository is the third pillar of a comprehensive Biotech Commercial Stack:
 
-1. **[Net-Guard-GTN-Optimizer](https://www.google.com/search?q=link-to-repo-1):** Protecting revenue via Gross-to-Net and Outcome-Based Rebate logic.
-2. **[Referral-Sense-AI]():** Identifying "Hidden" patients through NPI-level proxy claims and Haversine mapping.
-3. **[Patient-Voice-NLP]():** Understanding the human experience and removing barriers to therapy adoption.
+1. [**Net-Guard-GTN-Optimizer**](https://github.com/sannapa2016/Net-guard-gtn-optimizer): Protecting revenue via Gross-to-Net and Outcome-Based Rebate logic.
+2. [**Referral-Sense-AI**](https://github.com/sannapa2016/Referral-Sense-AI): Identifying "Hidden" patients through NPI-level proxy claims and Haversine mapping.
+3. [**Patient-Voice-NLP**](https://github.com/sannapa2016/Patient-Voice-NLP): Understanding the human experience and removing barriers to therapy adoption.
 
 
 ## Business Impact
